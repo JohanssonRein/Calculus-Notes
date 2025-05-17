@@ -1,0 +1,1 @@
+This repository contains all my notes for a university level calculus course. Mainly materials from calculus 1,2,3. If you find a mistake or need clearifications, please contact me at johnsonzhang729@gmail.com
